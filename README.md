@@ -1,3 +1,3 @@
 # SeleniumWebDrivingNBA
 
-Testing Selenium WebDriver, a web automation framework.
+Browsers tested included Google Chrome and Firefox. Sites included stats.nba.com.
