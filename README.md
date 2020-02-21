@@ -1,3 +1,3 @@
-# SeleniumWebDrivingNBA
+# Selenium Web Driving
 
-Browsers tested included Google Chrome and Firefox. Sites included stats.nba.com.
+Browsers used: Google Chrome, Firefox. 
